@@ -1,4 +1,4 @@
-# movie-app-entrega
+# movie-app-react
 
 Para instalar as Dependências
 npm install
